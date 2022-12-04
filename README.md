@@ -1,1 +1,3 @@
 # Wiki-Page-View-Timeseries-Forecasting
+
+Ads and marketing based companies help businesses elicit maximum clicks at minimum cost. They help businesses promote themselves easily, effectively, and economically. We will try to understand the per page view report for different wikipedia pages for 550 days, and forecast the number of views so that we can predict and optimize the ad placement for such companies. We have the data of 145k wikipedia pages and daily view count for each of them. Our clients could belong to different regions and might need data on how their ads will perform on pages in different languages.
